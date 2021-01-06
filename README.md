@@ -1,5 +1,5 @@
 # covid19bxl
-This repository are the data analysis scripts used for the manuscript "Reducing contacts to stop SARS-CoV-2 transmission during
+This repository contains the data analysis scripts (in R) used for the manuscript "Reducing contacts to stop SARS-CoV-2 transmission during
 the second pandemic wave in Brussels, Belgium", available as preprint: https://www.medrxiv.org/content/10.1101/2020.12.23.20248795v1 
 
 3 datasets from the Brussels region were used:
